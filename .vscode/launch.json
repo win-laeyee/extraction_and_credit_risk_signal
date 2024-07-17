@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DEV test",
+            "type": "python",
+            "request": "launch",
+            "module": "test",
+            "justMyCode": false,
+        }
+    ]
+}
